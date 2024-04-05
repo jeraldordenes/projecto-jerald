@@ -1,4 +1,4 @@
-                                                                    Informe projecto estructura de datos y algoritmos
+                          Informe projecto estructura de datos y algoritmos
 
 Descripción del problema:
 
