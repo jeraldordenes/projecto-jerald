@@ -11,12 +11,15 @@ Eficacia operativa: optimizar los procesos internos de la librería, reducir los
 Objetos detectados:
 
 Libros:
+
 *Atributos: Titulo, autor, genero, precio, cantidad en stock.
 *Métodos: Actualizar stock, obtener información.
 Clientes:
+
 *Atributos: Nombre, dirección, correo electrónico
 *Métodos: Realizar pedido, consultar historial de compras.
 Pedidos:
+
 *Atributos: Numero de pedido, fecha, libros solicitados.
 *Métodos: Generar factura, actualizar estado.
 
